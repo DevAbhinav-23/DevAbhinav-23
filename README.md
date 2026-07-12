@@ -226,12 +226,12 @@ Practical DSP algorithm design with convergence analysis for noise cancellation 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DevAbhinav-23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&ring_color=7C3AED" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAbhinav-23&theme=tokyonight&hide_border=true&background=0f0c29&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DevAbhinav-23&show_icons=true&theme=radical&hide_border=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAbhinav-23&theme=radical&hide_border=true" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAbhinav-23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAbhinav-23&layout=compact&theme=radical&hide_border=true" width="49%"/>
 
 </div>
 

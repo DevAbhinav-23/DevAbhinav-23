@@ -9,6 +9,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write
 
     steps:
       - uses: actions/checkout@v4
@@ -24,4 +26,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SNAKE_PAT }}
