@@ -247,8 +247,6 @@ Practical DSP algorithm design with convergence analysis for noise cancellation 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevAbhinav-23&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=A78BFA&line=7C3AED&point=ffffff" width="100%"/>
-
 <img src="https://raw.githubusercontent.com/DevAbhinav-23/DevAbhinav-23/output/github-snake-dark.svg" width="100%"/>
 
 </div>
