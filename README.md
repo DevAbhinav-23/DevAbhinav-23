@@ -226,12 +226,7 @@ Practical DSP algorithm design with convergence analysis for noise cancellation 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DevAbhinav-23&show_icons=true&theme=radical&hide_border=true" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAbhinav-23&theme=radical&hide_border=true" width="49%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAbhinav-23&layout=compact&theme=radical&hide_border=true" width="49%"/>
 
 </div>
 
