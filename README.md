@@ -48,12 +48,19 @@ I'm an Electronics & Communication Engineering student with a systems-level mind
 
 I approach engineering with **first-principles thinking, rigorous validation, and a curiosity for how hardware and software co-design shapes performance, power, and reliability**.
 
+<table>
+<tr>
+<td width="50%">
+
 ### Interests
 
-- Computer Architecture & RISC-V Processor Design
-- Compiler Engineering (LLVM / MLIR Infrastructure)
+- Computer Architecture & RISC-V
+- Compiler Engineering (LLVM / MLIR)
 - VLSI Design & RTL Verification
 - Systems-Level Software Development
+
+</td>
+<td width="50%">
 
 ### Open To
 
@@ -61,6 +68,10 @@ I approach engineering with **first-principles thinking, rigorous validation, an
 - Compiler & Toolchain Engineering Roles
 - Embedded Systems Development
 - Open Source Collaboration
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -237,8 +248,6 @@ Practical DSP algorithm design with convergence analysis for noise cancellation 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevAbhinav-23&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=A78BFA&line=7C3AED&point=ffffff" width="100%"/>
-
-<br/>
 
 <img src="https://raw.githubusercontent.com/DevAbhinav-23/DevAbhinav-23/output/github-snake-dark.svg" width="100%"/>
 
