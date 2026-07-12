@@ -243,16 +243,6 @@ Practical DSP algorithm design with convergence analysis for noise cancellation 
 
 ---
 
-## Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/DevAbhinav-23/DevAbhinav-23/output/github-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
 ## Current Focus
 
 ```yaml
