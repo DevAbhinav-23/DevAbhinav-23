@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Abhinav%20Venkata%20K&fontSize=60&fontColor=C9B6FF&animation=fadeIn&fontAlignY=38&desc=ECE%20Engineer%20%7C%20Systems%20Builder%20%7C%20Hardware-Software%20Co-Design&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Abhinav%20Venkata%20K&fontSize=60&fontColor=C9B6FF&animation=fadeIn&fontAlignY=38&desc=ECE+Enthusiast%20%7C%20Systems+Thinker%20%7C%20Hardware-Software+Co-Design&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Electronics+%26+Communication+Engineer;Compiler+%26+Systems+Engineer;VLSI+%26+Hardware+Design;Building+at+the+Intersection+of+Silicon+and+Software;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Electronics+%26+Communication+Engineer;Compiler+%26+Systems+Enthusiast;VLSI+%26+Hardware+Design;Building+at+the+Intersection+of+Silicon+and+Software" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -34,7 +34,7 @@
 
 ```yaml
 name: "Abhinav Venkata K"
-role: "ECE Engineer | Systems Builder | Hardware-Software Co-Designer"
+role: "ECE Enthusiast | Systems Thinker | Hardware-Software Co-Designer"
 degree: "B.Tech, Electronics & Communication Engineering"
 focus:
   - Computer Architecture & RISC-V
@@ -44,9 +44,9 @@ focus:
 philosophy: "Engineering systems from transistor-level to compiler-level — where silicon meets software."
 ```
 
-I'm an Electronics & Communication Engineering student with a systems-level engineering mindset spanning **VLSI design, compiler engineering, and computer architecture**. I build at every layer of the compute stack — from RTL and transistor-level circuits to LLVM-backed compilers and production-grade software platforms.
+I'm an Electronics & Communication Engineering student with a systems-level mindset spanning **VLSI design, compiler engineering, and computer architecture**. I enjoy building at every layer of the compute stack — from RTL and transistor-level circuits to LLVM-backed compilers.
 
-My work is driven by **first-principles thinking, rigorous validation, and a deep understanding of how hardware and software co-design shapes performance, power, and reliability**.
+I approach engineering with **first-principles thinking, rigorous validation, and a curiosity for how hardware and software co-design shapes performance, power, and reliability**.
 
 ### Interests
 
@@ -68,7 +68,7 @@ My work is driven by **first-principles thinking, rigorous validation, and a dee
 
 **Stack**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,verilog,matlab,python,bash,llvm,cmake,git,linux,react,nodejs,docker&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,verilog,matlab,python,bash,llvm,cmake,git,linux&theme=dark"/>
 
 </div>
 
@@ -237,21 +237,13 @@ Practical DSP algorithm design with convergence analysis for noise cancellation 
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DevAbhinav-23&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&column=7" width="100%"/>
-
-</div>
-
----
-
-## Contribution Activity
+## Contributions
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevAbhinav-23&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=A78BFA&line=7C3AED&point=ffffff" width="100%"/>
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/DevAbhinav-23/DevAbhinav-23/output/github-snake-dark.svg" width="100%"/>
 
