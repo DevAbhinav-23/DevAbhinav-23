@@ -37,63 +37,38 @@ name: "Abhinav Venkata K"
 role: "ECE Engineer | Systems Builder | Hardware-Software Co-Designer"
 degree: "B.Tech, Electronics & Communication Engineering"
 focus:
-  - VLSI Design & RTL Verification
+  - Computer Architecture & RISC-V
   - Compiler Engineering (LLVM / MLIR)
-  - RISC-V Processor Architecture
-  - Signal Processing & Analog Electronics
+  - VLSI Design & RTL Verification
   - Systems-Level Software Development
 philosophy: "Engineering systems from transistor-level to compiler-level — where silicon meets software."
 ```
 
-I'm an Electronics & Communication Engineering student with a systems-level engineering mindset spanning **VLSI design, compiler engineering, signal processing, and full-stack development**. I build at every layer of the compute stack — from RTL and transistor-level circuits to LLVM-backed compilers and production-grade software platforms.
+I'm an Electronics & Communication Engineering student with a systems-level engineering mindset spanning **VLSI design, compiler engineering, and computer architecture**. I build at every layer of the compute stack — from RTL and transistor-level circuits to LLVM-backed compilers and production-grade software platforms.
 
 My work is driven by **first-principles thinking, rigorous validation, and a deep understanding of how hardware and software co-design shapes performance, power, and reliability**.
+
+### Interests
+
+- Computer Architecture & RISC-V Processor Design
+- Compiler Engineering (LLVM / MLIR Infrastructure)
+- VLSI Design & RTL Verification
+- Systems-Level Software Development
 
 ### Open To
 
 - VLSI / RTL Design Internships
 - Compiler & Toolchain Engineering Roles
-- Signal Processing & DSP Opportunities
 - Embedded Systems Development
 - Open Source Collaboration
 
 ---
 
-## Tech Stack
-
 <div align="center">
 
-**Languages & HDL**
+**Stack**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,verilog,matlab,python,bash&theme=dark"/>
-
-**Compiler & Systems Tooling**
-
-<img src="https://skillicons.dev/icons?i=llvm,cmake,git,linux&theme=dark"/>
-
-**Frontend & Full-Stack**
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,html,css,tailwind&theme=dark"/>
-
-**DevOps & Tooling**
-
-<img src="https://skillicons.dev/icons?i=docker,githubactions,vscode&theme=dark"/>
-
-</div>
-
----
-
-## AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **Signal Processing & ML** | `████████░░` 80% | MATLAB DSP pipelines, sampling reconstruction, instrument clustering |
-| **Compiler-Aided Optimization** | `████████░░` 75% | LLVM/MLIR pass design, custom IR, codegen optimization |
-| **Hardware-Aware AI** | `███████░░░` 70% | RISC-V ISA extensions for ML inference, quantization-aware design |
-| **EDA Tooling** | `██████░░░░` 60% | Verilog simulation, synthesis workflows, timing analysis |
-| **Full-Stack AI Apps** | `██████░░░░` 55% | ML model integration in web platforms, real-time inference |
+<img src="https://skillicons.dev/icons?i=c,cpp,verilog,matlab,python,bash,llvm,cmake,git,linux,react,nodejs,docker&theme=dark"/>
 
 </div>
 
@@ -247,16 +222,6 @@ Practical DSP algorithm design with convergence analysis for noise cancellation 
 
 ---
 
-## Coding Profiles
-
-<div align="center">
-
-<a href="https://codeforces.com/profile/AbhinavVK"><img src="https://img.shields.io/badge/Codeforces-1DA1F2?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1a1a2e"/></a>
-
-</div>
-
----
-
 ## GitHub Analytics
 
 <div align="center">
@@ -288,6 +253,8 @@ Practical DSP algorithm design with convergence analysis for noise cancellation 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevAbhinav-23&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=A78BFA&line=7C3AED&point=ffffff" width="100%"/>
 
+<img src="https://raw.githubusercontent.com/DevAbhinav-23/DevAbhinav-23/output/github-snake-dark.svg" width="100%"/>
+
 </div>
 
 ---
@@ -303,10 +270,8 @@ learning:
 building:
   - Custom RISC-V Processor with ISA Extensions
   - LLVM/MLIR Compiler Infrastructure
-  - Full-Stack Applications with Systems-Level Optimization
 
 exploring:
-  - Hardware-Software Co-Design for AI Inference
   - Chiplet Architecture & Modular SoC Design
   - Rust for Systems-Level Tooling
 
